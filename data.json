@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "nombre": "Hamburgesa con Cerveza",
+      "precio": 50,
+      "img":
+            "https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iprofesional.com/assets/jpeg/2023/05/554314.jpeg",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "La Campagnola",
+      "precio": 100,
+      "img":
+        "https://lacampagnola.com/uploads/recipes/5dd5b7551c570.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Big Alos en Alos",
+      "precio": 150,
+      "'img":
+        "https://assets.iprofesional.com/assets/jpeg/2023/05/554312.jpeg",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "LechTrilogía en Pony Line e",
+      "precio": 200,
+      "img":
+        "https://assets.iprofesional.com/assets/jpeg/2023/05/554316.jpeg",
+      "cantidad": 1
+    }
+  ]
